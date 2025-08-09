@@ -15,21 +15,32 @@
 
 ### Project Description
 [2-3 lines about what your project does]
+A fun web app that plays YouTube music videos tailored to your current mood. To unlock the music, users play a balloon-popping mini-game that adds a playful challenge to brighten your day
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
+Sometimes, choosing music for your mood feels like a chore. Wouldn't it be better if you had to earn your song by popping balloons? No? Well, now you do!
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
+We created a mood-based music player combined with a balloon-popping game to unlock songs. It makes music listening interactive and fun, combining mood vibes with a quick game break.
 
 ## Technical Details!
-
 ### Technologies/Components Used
 For Software:
 - [Languages used]
+- JavaScript (ES6+)
+  HTML5
+  CSS3
 - [Frameworks used]
+- React.js
 - [Libraries used]
+- YouTube Data API (to fetch mood-based music videos)
+ React Hooks (useState, useEffect, useRef)
 - [Tools used]
+- Visual Studio Code (development)
+  Git & GitHub (version control)
+  Chrome Browser (testing & debugging)
 
 For Hardware:
 - [List main components]
@@ -49,13 +60,19 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1920" height="1080" alt="mood_based_songs1" src="https://github.com/user-attachments/assets/43d77916-529d-4cbc-9769-e782e5d62cc1" />
 *Add caption explaining what this shows*
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
+<img width="1920" height="1080" alt="mood_based_songs2" src="https://github.com/user-attachments/assets/e8c389e4-81b9-407e-b5e5-d942bf3909f4" />
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
+<img width="1920" height="1080" alt="mood_based_songs3" src="https://github.com/user-attachments/assets/4c6c40d6-f381-4e00-b94b-64ecaf4c7cd7" />
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -84,6 +101,7 @@ For Hardware:
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
+https://drive.google.com/drive/folders/13UawvOltLm5RDnDruYcMKWVRZtPNimGU?usp=sharing
 
 # Additional Demos
 [Add any extra demo materials/links]
